@@ -19,10 +19,10 @@ The system is normalized to reduce data redundancy and ensure data integrity.
 
 ## 🛠️ Technologies Used
 - Database: MySQL  
-- SQL Tool: MySQL Workbench / phpMyAdmin  
-- Language: SQL  
+- SQL Tool: MySQL Workbench
+- Language: SQL
 
----
+ ![Airport](https://raw.githubusercontent.com/341149/Airport/main/Airport_page-0001.jpg)
 
 ## 🗂️ Database Tables
 
